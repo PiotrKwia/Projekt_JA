@@ -1,0 +1,17 @@
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\bin\Debug\net7.0-windows\BubbleSort.exe
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\bin\Debug\net7.0-windows\BubbleSort.deps.json
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\bin\Debug\net7.0-windows\BubbleSort.runtimeconfig.json
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\bin\Debug\net7.0-windows\BubbleSort.dll
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\bin\Debug\net7.0-windows\BubbleSort.pdb
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.BubbleSortForm.resources
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.csproj.GenerateResource.cache
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.AssemblyInfo.cs
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.dll
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\refint\BubbleSort.dll
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.pdb
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\BubbleSort.genruntimeconfig.cache
+C:\Users\Kretess\Desktop\projekty\Poprawiony_JA\Bubblesort\obj\Debug\net7.0-windows\ref\BubbleSort.dll
